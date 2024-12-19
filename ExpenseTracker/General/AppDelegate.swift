@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  ExpenseTracker
-//
-//  Created by Batch - 1 on 18/12/24.
-//
-
 import UIKit
 
 @main
